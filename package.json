@@ -1,0 +1,7 @@
+{
+  "name": "com.xavinet.BackboneLogger",
+  "displayName": "BackboneLogger",
+  "version": "1.0.0",
+  "unity": "2022.3.39",
+  "description": "Backbone Logger is a lightweight and powerful logging system for Unity. Organize logs into categories, color-code messages, filter by level, and strip them entirely from builds for zero runtime cost."
+}
